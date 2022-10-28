@@ -1,12 +1,12 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+
 
 import { Col, Layout, Row } from "antd";
-import { Content, Header } from "antd/lib/layout/layout";
-import Sider from "antd/lib/layout/Sider";
+import { Header } from "antd/lib/layout/layout";
+
 import SectorSelector from "./components/SectorSelector";
-import { Route, Router, Routes } from "react-router";
-import Edit from './pages/EditSector';
+import { Route, Routes } from "react-router";
+
 import CreateSector from "./pages/CreateSector";
 import EditSector from "./pages/EditSector";
 
