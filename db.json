@@ -1,18 +1,11 @@
 {
   "sectors": [
     {
-      "nome": "RH",
-      "cargos": [
-        "HEAD"
-      ],
-      "id": 1
-    },
-    {
       "name": "TI",
       "positions": [
         "HEAD"
       ],
-      "id": 2
+      "id": 1
     }
   ]
 }
