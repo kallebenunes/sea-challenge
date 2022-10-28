@@ -1,9 +1,11 @@
 import React from 'react'
+import ManipulateSector from '../components/ManipulateSector'
 
 const EditSector = () => {
     return (
         <main>
-            Editar página
+            Editar 
+            <ManipulateSector/>
         </main>
     )
 }
